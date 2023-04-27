@@ -19,6 +19,7 @@
 		7FF68CBC29F390CC00AEA10F /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF68CBB29F390CC00AEA10F /* ItemDetail.swift */; };
 		7FF68CBE29F645F900AEA10F /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF68CBD29F645F900AEA10F /* OrderView.swift */; };
 		7FF68CC029F6475F00AEA10F /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF68CBF29F6475F00AEA10F /* MainView.swift */; };
+		7FF68CC229F75CE700AEA10F /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF68CC129F75CE700AEA10F /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		7FF68CBB29F390CC00AEA10F /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		7FF68CBD29F645F900AEA10F /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		7FF68CBF29F6475F00AEA10F /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		7FF68CC129F75CE700AEA10F /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				7FB9689029EBCDB60058EE04 /* iDineApp.swift */,
+				7FF68CC129F75CE700AEA10F /* CheckoutView.swift */,
 				7FF68CB129ED004700AEA10F /* Helper.swift */,
 				7FF68CB329ED008200AEA10F /* Menu.swift */,
 				7FF68CB729ED00CF00AEA10F /* menu.json */,
@@ -164,6 +167,7 @@
 			files = (
 				7FF68CBC29F390CC00AEA10F /* ItemDetail.swift in Sources */,
 				7FF68CC029F6475F00AEA10F /* MainView.swift in Sources */,
+				7FF68CC229F75CE700AEA10F /* CheckoutView.swift in Sources */,
 				7FF68CBE29F645F900AEA10F /* OrderView.swift in Sources */,
 				7FB9689329EBCDB60058EE04 /* ContentView.swift in Sources */,
 				7FB9689129EBCDB60058EE04 /* iDineApp.swift in Sources */,
